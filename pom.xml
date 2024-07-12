@@ -19,7 +19,7 @@
         </repository>
         <repository>
             <id>palace</id>
-            <url>https://repo.palace.network/nexus/content/repositories/releases/</url>
+            <url>https:https://github.com/PalaceInteractiveArchive/</url>
         </repository>
         <repository>
             <id>central</id>
